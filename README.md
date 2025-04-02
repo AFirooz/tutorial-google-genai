@@ -19,6 +19,11 @@ Was taught by Anant Nawalgaria, Mark McDonald, Paige Bailey, and many other cont
 
 ## <div style="display: flex; align-items: center;"><img src="./attachments/setup.svg" width="50" style="margin-right: 30px;" /><span>Set Up</span></div>
 
+<br>
+
+## <table><tr><td><img src="./attachments/setup.svg" width="40" /></td><td valign="middle">&nbsp;&nbsp;Set Up</td></tr></table>
+
+
   - [ ] Sign up for an [AI Studio account](https://ai.dev) and ensure you can generate a Gemini API key.
 
 
