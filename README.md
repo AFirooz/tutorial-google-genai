@@ -17,12 +17,12 @@ In addition to how to evaluate an LLM using another LLMs (LLM as a judge)
 
 Was taught by Anant Nawalgaria, Mark McDonald, Paige Bailey, and many other contributors from Google.
 
-## <div style="display: flex; align-items: upper;"><img src="./attachments/setup.svg" width="50" style="margin-right: 30px;" /><span>Set Up</span></div>
+## <div style="display: flex; align-items: center;"><img src="./attachments/setup.svg" width="50" style="margin-right: 30px;" /><span>Set Up</span></div>
 
   - [ ] Sign up for an [AI Studio account](https://ai.dev) and ensure you can generate a Gemini API key.
 
 
-## <div style="display: flex; align-items:center;"><img src="./attachments/days.svg" width="50" style="margin-right: 30px; align-items: center;" /><span>Day 1 (Foundational Large Language Models & Prompt Engineering)</span></div>
+## <div style="display: flex; align-items: center;"><img src="./attachments/days.svg" width="50" style="margin-right: 30px;" /><span>Day 1 (Foundational Large Language Models & Prompt Engineering)</span></div>
 
 Welcome to Day 1.
 
