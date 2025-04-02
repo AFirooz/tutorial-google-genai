@@ -17,12 +17,12 @@ In addition to how to evaluate an LLM using another LLMs (LLM as a judge)
 
 Was taught by Anant Nawalgaria, Mark McDonald, Paige Bailey, and many other contributors from Google.
 
-## <div style="display: flex; align-items: center;"><img src="./attachments/45478b6041441781c204fefc8cbced08c7ec2487.svg" width="50" style="margin-right: 15px;" /><span>Set Up</span></div>
+## <div style="display: flex; align-items: center;"><img src="./attachments/setup.svg" width="50" style="margin-right: 15px;" /><span>Set Up</span></div>
 
   - [ ] Sign up for an [AI Studio account](https://ai.dev) and ensure you can generate a Gemini API key.
 
 
-## <div style="display: flex; align-items: center;"><img src="./attachments/49d3f6dcb03076c3fb17f548f106a261958f9570.svg" width="50" style="margin-right: 15px;" /><span>Day 1 (Foundational Large Language Models & Prompt Engineering)</span></div>
+## <div style="display: flex; align-items: center;"><img src="./attachments/days.svg" width="50" style="margin-right: 15px;" /><span>Day 1 (Foundational Large Language Models & Prompt Engineering)</span></div>
 
 Welcome to Day 1.
 
@@ -47,7 +47,7 @@ The code lab will walk you through getting started with the Gemini API and cover
 3. Watch the [YouTube livestream recording](https://www.youtube.com/watch?v=kpRyiJUUFxY&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=1&t=13s). [Paige Bailey](https://x.com/DynamicWebPaige?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) will be joined by expert speakers from Google - Mohammadamin Barekatain, Lee Boonstra, Logan Kilpatrick, Daniel Mankowitz, Majd Merey Al, Anant Nawalgaria, Aliaksei Severyn and Chuck Sugnet to discuss today's readings and code labs.
 
 
-## <div style="display: flex; align-items: center;"><img src="./attachments/49d3f6dcb03076c3fb17f548f106a261958f9570.svg" width="50" style="margin-right: 15px;" /><span>Day 2 (Embeddings and Vector Stores/Databases)</span></div>
+## <div style="display: flex; align-items: center;"><img src="./attachments/days.svg" width="50" style="margin-right: 15px;" /><span>Day 2 (Embeddings and Vector Stores/Databases)</span></div>
 
 Welcome to Day 2.
 
@@ -66,7 +66,7 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 2. Watch [the YouTube livestream recording](https://www.youtube.com/watch?v=86GZC56rQCc&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=2). [Paige Bailey](https://x.com/DynamicWebPaige?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) will be joined by expert speakers from Google - Omid Fatemieh, Jinhyuk Lee, Alan Li, Iftekhar Naim, Anant Nawalgaria, Yan Qiao, and Xiaoqi Ren to discuss embeddings and vector stores/databases.
 
 
-## <div style="display: flex; align-items: center;"><img src="./attachments/49d3f6dcb03076c3fb17f548f106a261958f9570.svg" width="50" style="margin-right: 15px;" /><span>Day 3 (Generative Agents)</span></div>
+## <div style="display: flex; align-items: center;"><img src="./attachments/days.svg" width="50" style="margin-right: 15px;" /><span>Day 3 (Generative Agents)</span></div>
 
 Welcome to Day 3.
 
@@ -86,7 +86,7 @@ The code labs cover how to connect LLMs to existing systems and to the real worl
 2. Watch [the YouTube livestream recording](https://www.youtube.com/watch?v=HQUtMWoTAD4&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=3). [Paige Bailey](https://x.com/DynamicWebPaige?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) will be joined by expert speakers from Google - Steven Johnson, Julia Wiesinger, Alan Blount, Patrick Marlow, Wes Dyer, Anant Nawalgaria to discuss generative AI agents.
 
 
-## <div style="display: flex; align-items: center;"><img src="./attachments/49d3f6dcb03076c3fb17f548f106a261958f9570.svg" width="50" style="margin-right: 15px;" /><span>Day 4 (Domain-Specific LLMs)</span></div>
+## <div style="display: flex; align-items: center;"><img src="./attachments/days.svg" width="50" style="margin-right: 15px;" /><span>Day 4 (Domain-Specific LLMs)</span></div>
 
 In today’s reading, you’ll delve into the creation and application of specialized LLMs like SecLM and MedLM/Med-PaLM, with insights from the researchers who built them.
 
@@ -104,7 +104,7 @@ In the code labs you will learn how to add real world data to a model beyond its
 2. Watch [the YouTube livestream recording](https://www.youtube.com/watch?v=odvuLMJWUSU&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=4). [Paige Bailey](https://x.com/DynamicWebPaige?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) will be joined by expert speakers from Google - Scott Coull, Antonio Gulli, Anant Nawalgaria, Christopher Semturs, and Umesh Shankar. to discuss domain specific models.
 
 
-## <div style="display: flex; align-items: center;"><img src="./attachments/49d3f6dcb03076c3fb17f548f106a261958f9570.svg" width="50" style="margin-right: 15px;" /><span>Day 5 (MLOps for Generative AI)</span></div>
+## <div style="display: flex; align-items: center;"><img src="./attachments/days.svg" width="50" style="margin-right: 15px;" /><span>Day 5 (MLOps for Generative AI)</span></div>
 
 Welcome to Day 5.
 
@@ -121,7 +121,7 @@ Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's
 2. Watch the [YouTube livestream recording](https://www.youtube.com/watch?v=uCFW0i9xrBc&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=5). [Paige Bailey](https://x.com/DynamicWebPaige?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) will be joined by expert speakers from Google - Advait Bopardikar, Sokratis Kartakis, Gabriela Hernandez Larios, Veer Muchandi, Anant Nawalgaria, Elia Secchi, and Olivia Wiles to discuss MLOps practices for generative AI.
 
 
-## <div style="display: flex; align-items: center;"><img src="./attachments/49d3f6dcb03076c3fb17f548f106a261958f9570.svg" width="50" style="margin-right: 15px;" /><span>Bonus Assignment</span></div>
+## <div style="display: flex; align-items: center;"><img src="./attachments/days.svg" width="50" style="margin-right: 15px;" /><span>Bonus Assignment</span></div>
 
 There's more!
 
